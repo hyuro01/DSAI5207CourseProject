@@ -22,4 +22,8 @@ Also it is necessary to investigate that the reason of ViT's failure in toy data
 
 ## Experience Results
 
+1. CNN
+<img width="1238" height="1575" alt="CNN_result" src="https://github.com/user-attachments/assets/ecce1eb9-a8ff-4928-b6d1-fbef7b0337da" />
 
+2. ViT
+<img width="1229" height="1575" alt="ViT_result" src="https://github.com/user-attachments/assets/951258f8-efeb-4ddf-8b21-e96e4171c045" />
